@@ -18,6 +18,4 @@ jobs:
             cd ~/web--app--2026/myapp
             git pull origin main
             npm install --production
-            pm2 restart chat  
-
-            
+            pm2 restart chat
