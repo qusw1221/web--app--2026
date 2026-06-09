@@ -70,5 +70,5 @@ app.post('/api/messages', (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log('サーバーが起動しました: http://localhost:3000');
+  console.log('サーバー起動しました: http://localhost:3000');
 });
